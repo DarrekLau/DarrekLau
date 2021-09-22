@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**DarrekLau/DarrekLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- DarrekLau/DarrekLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### 🔭 I am Darrek. 
 ### 🌱 I stay in the western side of a small island called Singapore.
