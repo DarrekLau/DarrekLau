@@ -8,6 +8,6 @@
 ### 👯 My favorite place is home.
 ### 🤔 I am currently taking a boot camp in Full Stack Developer.
 ### 💬 My best momemt is .......
-### 📫 How to reach me: Darrek@laukt@gmail.com
+### 📫 How to reach me: Darrek.laukt@gmail.com
 ### 😄 Pronouns: Him/He
 ### Fun fact: I volunteer in project that deal with LGBTQ plus issue. 
